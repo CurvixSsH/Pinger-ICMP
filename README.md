@@ -6,7 +6,7 @@ pip install colorama pyfiglet pythonping
 
 git clone https://github.com/CurvixSsH/Pinger-ICMP.git
 
-cd Pinger-
+cd Pinger-ICMP
 
 python.py
 
