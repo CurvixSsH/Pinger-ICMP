@@ -12,5 +12,8 @@ python.py
 
 # EJEMPLO
 python pinger.py google.com
+
 O
-Python pinger.py y luego inserta el host (url/ip)
+
+Python pinger.py  y luego el programa te pedira insertar el host (url/ip)
+
